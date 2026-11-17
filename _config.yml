@@ -1,0 +1,11 @@
+theme: minima
+title: Mehmet Uçar
+author: Mehmet Uçar
+email: ucar10mehmet@gmail.com
+description: >-
+  Personal website of Mehmet Uçar. 3rd-year Computer Engineering student 
+  interested in Mobile Development, Web Programming, and Software Projects.
+
+header_pages:
+  - about.md
+  - presentation.md
